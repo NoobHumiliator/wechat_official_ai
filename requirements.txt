@@ -1,0 +1,7 @@
+web.py
+lxml
+pyyaml
+requests
+pyhandytools
+expiringdict
+sparkdesk-api==1.3.0
